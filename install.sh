@@ -11,3 +11,5 @@ then
 else
         echo "Script does not exist."
 fi
+
+mv $0 install.bk

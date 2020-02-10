@@ -29,7 +29,7 @@ Clone the repository and run installation file.
 ```
 git clone https://github.com/bipinrimal/dailyjournal.git
 cd dailyjournal
-./install.sh
+bash install.sh
 ```
 The installation file will add the directory information and will need to be run only once. 
 To run the script, add to path.

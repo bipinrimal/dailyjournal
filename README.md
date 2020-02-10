@@ -7,7 +7,7 @@ A simple bash script to generate a markdown file to record daily events. It take
 dailyjournal
 │   README.md
 │   jrnl.sh   
-│   install.sh
+│   install.bk
 └───2020
 │   └───01_Jan
 │   |    |   Jan_01

@@ -28,5 +28,5 @@ else
         echo "#### $(date +%I:%M" "%p)" >>"$FN"
 fi
 
-#Opens the file to edit. Options of using different software under consideration. 
+#Opens the file to edit. Can use other softwares to open
 vim "$FN"
